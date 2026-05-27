@@ -30,7 +30,6 @@ import (
 
 const (
 	// Genesis addresses (immutable by design)
-	// THESE ADDRESSES WILL BE UPDATED BEFORE FINAL DEPLOYMENT
 	GenesisLiquidityPoolAddress = "AQi01670ab0a97edc27badb1974b69d77cdde95b17f0"
 	GenesisTreasuryAddress      = "AQi0d7e3af7a1aa478c206d653f686c3886aad4b2ea6"
 	GenesisValidatorAddress     = "AQi0649e55e17a6904419118fc10755b2c579fb02e48"
